@@ -1,5 +1,7 @@
 # Committed RAM Increaser
 
+![Committed RAM Increaser](commited%20ram%20increaser.png)
+
 A lightweight, automated tool designed to prevent "Out of Memory" errors in high-demanding games and heavy applications by optimizing and increasing your Windows Virtual Memory (PageFile) limit.
 
 ## 🚀 What it does
